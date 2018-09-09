@@ -1,0 +1,50 @@
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\bin\Debug\AlorithmTestX.exe.config
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\bin\Debug\AlorithmTestX.exe
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\bin\Debug\AlorithmTestX.pdb
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\obj\Debug\MainWindow.g.cs
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\obj\Debug\RuleControl.g.cs
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\obj\Debug\App.g.cs
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\obj\Debug\AlorithmTestX_MarkupCompile.cache
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\obj\Debug\AlorithmTestX_MarkupCompile.lref
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\obj\Debug\MainWindow.baml
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\obj\Debug\RuleControl.baml
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\obj\Debug\Symbols.baml
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\obj\Debug\AlorithmTestX.g.resources
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\obj\Debug\AlorithmTestX.Properties.Resources.resources
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\obj\Debug\AlorithmTestX.csproj.GenerateResource.Cache
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\obj\Debug\AlorithmTestX.csproj.CoreCompileInputs.cache
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\obj\Debug\AlorithmTestX.exe
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\obj\Debug\AlorithmTestX.pdb
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\obj\Debug\AlorithmTestX.csprojResolveAssemblyReference.cache
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\bin\Debug\AlorithmTestX.exe.manifest
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\bin\Debug\AlorithmTestX.application
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\obj\Debug\AlorithmTestX.exe.manifest
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\AlorithmTestX\AlorithmTestX\obj\Debug\AlorithmTestX.application
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\obj\Debug\MainWindow.g.cs
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\obj\Debug\RuleControl.g.cs
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\obj\Debug\MainWindow.baml
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\obj\Debug\RuleControl.baml
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\obj\Debug\Symbols.baml
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\obj\Debug\AlorithmTestX.csproj.GenerateResource.cache
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\obj\Debug\AlorithmTestX.csproj.CoreCompileInputs.cache
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\obj\Debug\AlorithmTestX.csproj.CopyComplete
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\bin\Debug\MarcovAlgorithmVisualizer.exe.config
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\bin\Debug\MarcovAlgorithmVisualizer.exe.manifest
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\bin\Debug\MarcovAlgorithmVisualizer.application
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\bin\Debug\MarcovAlgorithmVisualizer.exe
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\bin\Debug\MarcovAlgorithmVisualizer.pdb
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\obj\Debug\MarcovAlgorithmVisualizer_MarkupCompile.cache
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\obj\Debug\MarcovAlgorithmVisualizer_MarkupCompile.lref
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\obj\Debug\MarcovAlgorithmVisualizer.g.resources
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\obj\Debug\MarcovAlgorithmVisualizer.Properties.Resources.resources
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\obj\Debug\MarcovAlgorithmVisualizer.exe.manifest
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\obj\Debug\MarcovAlgorithmVisualizer.application
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\obj\Debug\MarcovAlgorithmVisualizer.exe
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\obj\Debug\MarcovAlgorithmVisualizer.pdb
+C:\Users\MaxRev\Documents\Visual Studio 2017\Projects\[OK] AlorithmTestX\AlorithmTestX\obj\Debug\AlorithmTestX.csprojAssemblyReference.cache

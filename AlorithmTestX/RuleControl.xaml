@@ -1,0 +1,57 @@
+﻿<UserControl x:Name="userControl" x:Class="MarcovAlgorithmVisualizer.RuleControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MarcovAlgorithmVisualizer"
+             mc:Ignorable="d"  
+             d:DesignHeight="300" d:DesignWidth="300"  HorizontalAlignment="Stretch">
+    <UserControl.Resources>
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+        <local:NotEx x:Key="NotEx"/>
+        <Style x:Key="LabelStyle1" TargetType="{x:Type Label}">
+            <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+            <Setter Property="VerticalContentAlignment" Value="Top"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Label}">
+                        <Border BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}" Padding="{TemplateBinding Padding}" SnapsToDevicePixels="true">
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="False" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsEnabled" Value="false">
+                                <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+    <Grid DataContext="{Binding}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Label FontSize="20" Content="{Binding ContentX,ElementName=userControl,UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left"
+                VerticalAlignment="Center" Margin="10" 
+                             x:Name="lab"
+               Visibility="{Binding EditMode, Converter={StaticResource BooleanToVisibilityConverter}, ElementName=userControl,Mode=OneWay}" Style="{DynamicResource LabelStyle1}" />
+        <StackPanel x:Name="stackPanel" Visibility="{Binding IsVisible, Converter={StaticResource NotEx}, ElementName=lab}" Orientation="Horizontal" >
+            <TextBox x:Name="AV" Text="{Binding A}" LostFocus="A_LostFocus" VerticalAlignment="Center"/>
+            <Label Content=" --> " Margin="10" VerticalAlignment="Center"/>
+            <TextBox x:Name="BV" Text="{Binding B}" LostFocus="B_LostFocus"  VerticalAlignment="Center"/>
+        </StackPanel>
+        <Button Content="Up" HorizontalAlignment="Center" 
+                VerticalAlignment="Center" Width="40"   Grid.Column="1" Margin="5" Click="MoveUp_Click"/>
+        <Button Content="Down" HorizontalAlignment="Center" 
+                VerticalAlignment="Center" Width="60" Grid.Column="2" Margin="5"  Click="MoveDown_Click"/>
+        <Button Content="Del" HorizontalAlignment="Center" 
+                VerticalAlignment="Center" Width="40" Grid.Column="3" Margin="5"  Click="Del_Click"/>
+    </Grid>
+</UserControl>
